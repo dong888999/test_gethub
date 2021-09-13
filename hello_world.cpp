@@ -5,6 +5,7 @@
 int main()
 {
     printf("hellow world\n");
+    printf（""Hellow\n);
     system("pause");
     return 0;
 }
